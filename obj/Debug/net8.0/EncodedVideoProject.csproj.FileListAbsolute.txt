@@ -117,3 +117,4 @@
 /Users/lakshaymalhotra/Desktop/Work/EncodedVideoProject/EncodedVideoProject/obj/Debug/net8.0/EncodedVideoProject.pdb
 /Users/lakshaymalhotra/Desktop/Work/EncodedVideoProject/EncodedVideoProject/obj/Debug/net8.0/EncodedVideoProject.genruntimeconfig.cache
 /Users/lakshaymalhotra/Desktop/Work/EncodedVideoProject/EncodedVideoProject/obj/Debug/net8.0/ref/EncodedVideoProject.dll
+/Users/lakshaymalhotra/Desktop/Work/EncodedVideoProject/EncodedVideoProject/obj/Debug/net8.0/EncodedVideoProject.sourcelink.json

@@ -87,7 +87,7 @@ public class EncryptionService : IEncryptionService
             IVId = Convert.ToBase64String(iv),
             FileContent = contentWithoutIV, // Store content without the IV
             CreatedAt = DateTime.UtcNow,
-            UserId = userId  // Set the user ID
+            UserId = userId 
         };
         
         _dbContext.EncryptedFiles.Add(encryptedFile);
